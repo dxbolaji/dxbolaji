@@ -1,4 +1,3 @@
-<h1 align="center">Heyyo 🦉</h1>
 <img src = "DX GITHUB.jpg">
 
 <!--
