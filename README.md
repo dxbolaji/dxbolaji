@@ -26,6 +26,7 @@ I started my coding journey in 2025, beginning with HTML, CSS, and JavaScript, t
 <a href="https://www.x.com/dxbolaji" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/dxbolaji?logo=twitter&style=for-the-badge&color=64748b&labelColor=7f1d1d"
 /></a>
+
 ### Badges
 
 <a href="https://github.com/dxbolaji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxbolaji&langs_count=10&title_color=f97316&text_color=f97316&icon_color=64748b&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
