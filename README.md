@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Heyyo 🦉</h1>
+<img src = "DX GITHUB.jpg">
 
 <!--
 **dxbolaji/dxbolaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
