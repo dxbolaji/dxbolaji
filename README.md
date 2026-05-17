@@ -14,7 +14,7 @@ I started my coding journey in 2025, beginning with HTML, CSS, and JavaScript, t
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [adeniranrahman7@gmail.com](mailto:adeniranrahman7@gmail.com)
-* 🧠  I'm currently learning Solidity and Python
+* 🧠  I'm currently learning Solidity, Django, DSA Problems and Python.
 * 👥  I'm looking to collaborate on interesting projects
 * 💬  I am currently building TRACE (Transparent Real-time AI Chain Engine) — a financial transparency platform that tracks transactions in real time, explains spending using AI, and anchors transaction proofs on-chain for trust and verification. Through TRACE, I’m actively applying my backend and blockchain development skills to design systems that make financial activity verifiable, understandable, and publicly accountable.
 
